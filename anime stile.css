@@ -1,0 +1,27 @@
+/*BARRA DI NAVIGAZIONE*/
+
+.dropdown-item:hover {
+
+    background-color: blue;
+}
+
+#chat3 .form-control {
+    border-color: transparent;
+}
+
+#chat3 .form-control:focus {
+    border-color: transparent;
+    box-shadow: inset 0px 0px 0px 1px transparent;
+}
+
+.badge-dot {
+    border-radius: 50%;
+    height: 10px;
+    width: 10px;
+    margin-left: 2.9rem;
+    margin-top: -.75rem;
+}
+
+/*<div style="width: 80vh; height: 300px; background-color: #D0BFFF;"></div>*/
+
+/*<span style="padding: 30px;">Si veramente molto bello</span>*/
